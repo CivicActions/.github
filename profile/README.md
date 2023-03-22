@@ -12,7 +12,7 @@ We are passionate about building an open source community. Reach out, contribute
 
 We believe people who are well taken care of can be more balanced, productive, and happy. Our mission is to help the government better serve the public by transforming the way digital services are built and delivered. We partner with agencies to modernize technology systems, improve user experiences, and build capacity for making government services accessible and effective for all.
 
-We're looking for talented, compassionate and ambitious people who are ready to grow with us. Join us!
+We're looking for talented, compassionate and ambitious people who are ready to grow with us. [Join us!](https://civicactions.com/careers#open-positions)
 
 - **We are and always will be a fully remote team.**
 - 100% Medical, Dental, Vision, Disability, and Life Insurance coverage for employee + dependents

@@ -33,6 +33,6 @@ jobs:
         id: import-ca-jobs
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/civicactions"
+          feed_list: "https://api.greenhouse.io/v1/boards/civicactions/jobs"
           readme_path: profile/README.md
           comment_tag_name: GREENHOUSE-JOBS
