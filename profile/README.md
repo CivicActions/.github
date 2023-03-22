@@ -1,3 +1,5 @@
+![CivicActions Logo](https://github.com/civicactions/.github/blob/main/assets/header.png)
+
 ## Welcome!
 
 Informed by an active and ongoing role in the open source and Drupal communities, as well as leadership deeply invested in transforming government, CivicActions is proud to showcase nearly 20 years of empowering people-first technology that benefits some of the most vulnerable populations.
@@ -26,7 +28,7 @@ We're looking for talented, compassionate and ambitious people who are ready to 
 - Community engagement matters—that’s why we offer company matching donations to the causes you believe in, as well as a service sabbatical so you can make an impact on your community
 - Paid sabbaticals encouraged
 
-## Open Positions:
+<!-- ## Open Positions: -->
 
 <!-- GREENHOUSE-JOBS:START -->
 
