@@ -1,22 +1,38 @@
-name: Latest blog post workflow
-on:
-  schedule: # Run workflow automatically
-    - cron: "0 * * * *" # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+# 👋 Import Dynamic Content
+# This workflow imports the latest CivicActions content
 
-  push:
+name: 👋 Import Dynamic Content
+
+on:
+  #  schedule: # ⏰ Run workflow automatically
+  #    - cron: "0 * * * *" # Runs every hour, on the hour
+  workflow_dispatch: # 🚀 Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+#  push:
 
 permissions:
   contents: write # To write the generated contents to the readme
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: 🔄📝 from 📥📰
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: 🛒 Checkout Repository 📥
+        id: checkout
         uses: actions/checkout@v3
-      - name: Pull in dev.to posts
+
+      #      - name: 📥 Pull in CivicActions Medium Posts 📰
+      #        id: import-ca-medium
+      #        uses: gautamkrishnar/blog-post-workflow@v1
+      #        with:
+      #          feed_list: "https://medium.com/feed/civicactions"
+      #          readme_path: profile/README.md
+      #          comment_tag_name: GREENHOUSE-JOBS
+
+      - name: 📥 Import 💼 from 🟢🏠
+        id: import-ca-jobs
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/civicactions"
+          readme_path: profile/README.md
+          comment_tag_name: GREENHOUSE-JOBS
