@@ -19,7 +19,7 @@ We're looking for talented, compassionate and ambitious people who are ready to 
 - **We are and always will be a fully remote team.**
 - 100% Medical, Dental, Vision, Disability, and Life Insurance coverage for employee + dependents
 - 401(k) with safe harbor contribution of 3% + 3% matching
-- Open Unlimited PTO Vacation Policy
+- Flexible PTO Policy
 - Paid parental and caregiver leave (12 weeks)
 - Annual Professional Development/Education Stipend of $1,200
 - Annual Technology Stipend of $1,027
