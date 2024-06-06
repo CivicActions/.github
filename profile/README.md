@@ -16,17 +16,15 @@ We believe people who are well taken care of can be more balanced, productive, a
 
 We're looking for talented, compassionate and ambitious people who are ready to grow with us. [Join us!](https://civicactions.com/careers#open-positions)
 
-- **We are and always will be a fully remote team.**
+- **We have always been and always will be a fully remote team.**
 - 100% Medical, Dental, Vision, Disability, and Life Insurance coverage for employee + dependents
 - 401(k) with safe harbor contribution of 3% + 3% matching
 - Flexible PTO Policy
 - Paid parental and caregiver leave (12 weeks)
 - Annual Professional Development/Education Stipend of $1,200
-- Annual Technology Stipend of $1,027
+- Annual Technology Stipend
 - We’re flexible! Structure your working hours around what works for you
 - Employee growth plans, appreciation programs, and paid corporate summits so you can develop at CivicActions and thrive
-- Community engagement matters—that’s why we offer company matching donations to the causes you believe in, as well as a service sabbatical so you can make an impact on your community
-- Paid sabbaticals encouraged
 
 <!-- ## Open Positions: -->
 
