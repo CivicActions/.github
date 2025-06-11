@@ -8,7 +8,7 @@ We work with agencies like Centers for Medicare and Medicaid Services (CMS) and 
 
 ## Get Started
 
-We are passionate about building an open source community. Reach out, contribute, and let’s build software openly and with gusto. Discover more about CivicActions on [LinkedIn](https://www.linkedin.com/company/civicactions/), [Twitter](https://twitter.com/civicactions), and [Instagram](https://www.instagram.com/civicactions/), and [explore our recent case studies and projects here](https://civicactions.com/).
+We are passionate about building an open source community. Reach out, contribute, and let’s build software openly and with gusto. Discover more about CivicActions on [LinkedIn](https://www.linkedin.com/company/civicactions/), [Bluesky](https://bsky.app/profile/civicactions.com), [Twitter](https://twitter.com/civicactions), [Instagram](https://www.instagram.com/civicactions/), and [explore our recent case studies and projects here](https://civicactions.com/).
 
 ## Join us!
 
