@@ -1,6 +1,6 @@
 # .github
 
-CivicActions Community Repository
+CivicActions Community Repository. This repository contains our default header image when people look at our organizational profile. It also contains defaults for [our community health files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) for our open source projects.
 
 # Blog posts
 
